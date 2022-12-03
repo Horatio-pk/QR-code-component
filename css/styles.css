@@ -1,0 +1,51 @@
+    *{
+        margin: 0;
+    }
+    body{
+        background-color: rgb(213, 225, 239, .89);
+        font-family: outfit, serif;
+        text-align: center;
+    }
+    h2{
+        color: hsl(218, 44%, 22%);
+        font-size: 22px;
+        font-weight: 700;
+        width: 254px;
+    }
+    p{
+        color:  rgb(171, 174, 182);
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 20px;
+        
+        
+    }
+
+    img{
+        border-radius: .5rem;
+        display: block;
+        margin: 17px;
+        position: relative;
+        top: 17.5px;
+        width: 286px;
+    }
+    .container{
+    background-color: white; 
+    border-radius: 1rem;
+    height: 495px;
+    margin: 5rem auto;  
+    width: 20rem;
+    }
+
+
+    .content{
+        margin: 2.5rem auto;
+        width: 254px;
+    }
+
+    .attribution{
+        width: 50%;
+        margin: 5rem 21.25rem;
+        font-size: small;
+        text-align: center;
+    }
